@@ -1,0 +1,8 @@
+AWS - DIO
+
+Vantagens:
+- Dimensionamento:
+	* vertical - aumenta ou diminui a capacidade de um unico recurso
+	* horizontal - aumenta ou diminui o numero de recursos
+- Infraestrutura global
+- Alta disponibilidade, elasticidade e agilidade 
